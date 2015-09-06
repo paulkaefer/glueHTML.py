@@ -62,8 +62,6 @@ for fileName in fileList:
     thisFile.close()
     fileNumber = fileNumber + 1
 
-# "stitch it all together" into one file
-
-# run on: a-z.html; Swahili versions
-# also: "other files" on both English and Swahili
+# "all stitched together" into one file now:
+outputFile.close()
 
